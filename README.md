@@ -41,7 +41,8 @@ La idea original del proyecto era crear una pagina que cumpla con la funcion de 
 - Cuarto Paso: Prender admin y Mysql.
 - Quinto Paso: Clickear el admin de Mysql.
 - Sexto Paso: Subir tu archivo SQL a la base de datos.
-- Séptimo Paso: Abrir através de Chrome con http://localhost/proyectocalendario/crud.php
+- Séptimo Paso: Abrir através de Chrome con "http://localhost/proyectocalendario/crud.php" copiandolo
+  manualmente.
 
 ### Cosas a mejorar 
 Desde nuestra autocritica, sentimos que tenemos que mejorar nuestra pagina agregandole JavaScript y modificar el CSS 
