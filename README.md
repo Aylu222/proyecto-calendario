@@ -17,7 +17,7 @@ Nuestro proyecto se trata de un calendario que guarda eventos, es un trabajo fin
 - PHP
 - SQL
   
-### Como funciona
+# Como funciona
 
 Para poder utilizarlo solo tenés que añadir el nombre del evento, elegir la fecha en el que transcurre de este y darle click en crear evento.
 
@@ -27,14 +27,14 @@ Para poder utilizarlo solo tenés que añadir el nombre del evento, elegir la fe
 
 - Crear evento
 
-### Modalidad de trabajo 
+# Modalidad de trabajo 
 
 Para esto, logramos comunicar nuestras opiniones e ideas del proyecto a través de un grupo de Whatsapp o en clases, en los que también se charló acerca de la división de las tareas, nos separamos áreas como la base de datos, de los cuales se encargaron Aylen y Alexis, como también la parte de PHP que fue programandose por Morena,Lisandro y Tracey en el transcurso de las 3 semanas que nos llevó terminar el trabajo.
 
-### Problemas
+# Problemas
 La idea original del proyecto era crear una pagina que cumpla con la funcion de compartir un calendario con varios usuarios y que estos tengan el permiso de poder editar el evento, pero con nuestro equipo no logramos ese objetivo, tuvimos muchos inconvenientes y decimos cambiar la idea para que el calendario sea individual sin la posibilidad de poder compartirlo con otras personal.
   
-### Ejecución 
+# Ejecución 
 - Primer paso: Instalar Visual Studio Code 
 - Segundo Paso: Instalar Xampp
 - Tercer Paso: Verificar que el archivo que se esta modificando en el visual este en la carpeta del Xampp      que se encuentra en el disco duro.
@@ -44,7 +44,7 @@ La idea original del proyecto era crear una pagina que cumpla con la funcion de 
 - Séptimo Paso: Abrir através de Chrome con "http://localhost/proyectocalendario/crud.php" copiandolo
   manualmente.
 
-### Cosas a mejorar 
+# Cosas a mejorar 
 Desde nuestra autocritica, sentimos que tenemos que mejorar nuestra pagina agregandole JavaScript y modificar el CSS 
   
 
