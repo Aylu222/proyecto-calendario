@@ -8,10 +8,10 @@
 - Monzón Tracey 
 - Domínguez Lisandro
 
-  ### Proyecto Final
+### Proyecto Final
 Nuestro proyecto se trata de un calendario que guarda eventos, es un trabajo final del curso que nos brinda Streambe.
 
-  ### Técnologias utilizadas
+### Técnologias utilizadas
 - HTML
 - CSS
 - PHP
